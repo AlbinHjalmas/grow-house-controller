@@ -1,0 +1,46 @@
+﻿  Creating compile items for all generated source files: ..\..\generated\fonts\src\ApplicationFontProvider.cpp;..\..\generated\fonts\src\FontGetters.cpp;..\..\generated\fonts\src\Font_segoeui_17_8bpp.cpp;..\..\generated\fonts\src\Font_segoeui_18_8bpp.cpp;..\..\generated\fonts\src\Font_segoeui_28_8bpp.cpp;..\..\generated\fonts\src\Font_segoeui_40_8bpp.cpp;..\..\generated\fonts\src\Font_segoeui_67_4bpp.cpp;..\..\generated\fonts\src\Font_verdana_12_4bpp.cpp;..\..\generated\fonts\src\Font_verdana_17_8bpp.cpp;..\..\generated\fonts\src\Font_verdana_34_4bpp.cpp;..\..\generated\fonts\src\Font_verdana_46_4bpp.cpp;..\..\generated\fonts\src\Kerning_segoeui_17_8bpp.cpp;..\..\generated\fonts\src\Kerning_segoeui_18_8bpp.cpp;..\..\generated\fonts\src\Kerning_segoeui_28_8bpp.cpp;..\..\generated\fonts\src\Kerning_segoeui_40_8bpp.cpp;..\..\generated\fonts\src\Kerning_segoeui_67_4bpp.cpp;..\..\generated\fonts\src\Kerning_verdana_12_4bpp.cpp;..\..\generated\fonts\src\Kerning_verdana_17_8bpp.cpp;..\..\generated\fonts\src\Kerning_verdana_34_4bpp.cpp;..\..\generated\fonts\src\Kerning_verdana_46_4bpp.cpp;..\..\generated\fonts\src\Table_segoeui_17_8bpp.cpp;..\..\generated\fonts\src\Table_segoeui_18_8bpp.cpp;..\..\generated\fonts\src\Table_segoeui_28_8bpp.cpp;..\..\generated\fonts\src\Table_segoeui_40_8bpp.cpp;..\..\generated\fonts\src\Table_segoeui_67_4bpp.cpp;..\..\generated\fonts\src\Table_verdana_12_4bpp.cpp;..\..\generated\fonts\src\Table_verdana_17_8bpp.cpp;..\..\generated\fonts\src\Table_verdana_34_4bpp.cpp;..\..\generated\fonts\src\Table_verdana_46_4bpp.cpp;..\..\generated\images\src\background.cpp;..\..\generated\images\src\BitmapDatabase.cpp;..\..\generated\images\src\__designer\Dark_Buttons_Round_Edge_icon_button.cpp;..\..\generated\images\src\__designer\Dark_Buttons_Round_Edge_icon_button_pressed.cpp;..\..\generated\images\src\__designer\Dark_Buttons_Round_Edge_large.cpp;..\..\generated\images\src\__designer\Dark_Buttons_Round_Edge_large_pressed.cpp;..\..\generated\images\src\__designer\Dark_Icons_Back_arrow_32.cpp;..\..\generated\images\src\__designer\Dark_Icons_Down_arrow_32.cpp;..\..\generated\images\src\__designer\Dark_Icons_Home_32.cpp;..\..\generated\images\src\__designer\Dark_Icons_Info_32.cpp;..\..\generated\images\src\__designer\Dark_Icons_Power_32.cpp;..\..\generated\images\src\__designer\Dark_Icons_Settings_32.cpp;..\..\generated\images\src\__designer\Dark_Icons_Up_arrow_32.cpp;..\..\generated\images\src\__designer\Dark_Slider_Vertical_Small_Indicators_Slider3_Vertical_Round_nob.cpp;..\..\generated\images\src\__designer\Dark_Slider_Vertical_Small_Slider3_Vertical_Round_back.cpp;..\..\generated\images\src\__designer\Dark_Slider_Vertical_Small_Slider3_Vertical_Round_fill.cpp;..\..\generated\images\src\__designer\Dark_Togglebars_Toggle_round_small_button_Off.cpp;..\..\generated\images\src\__designer\Dark_Togglebars_Toggle_round_small_button_On.cpp;..\..\generated\images\src\__designer\Dark_Togglebars_Toggle_small_button_Off.cpp;..\..\generated\images\src\__designer\Dark_Togglebars_Toggle_small_button_On.cpp;..\..\generated\texts\src\LanguageGb.cpp;..\..\generated\texts\src\Texts.cpp;..\..\generated\texts\src\TypedTextDatabase.cpp
+  dateTimeSettingsScreenViewBase.cpp
+  dayNightSettingsScreenViewBase.cpp
+  mainScreenViewBase.cpp
+  opConfigSettingsScreenViewBase.cpp
+  settingsScreenViewBase.cpp
+  tempHumiSettingsScreenViewBase.cpp
+  main.cpp
+  ApplicationFontProvider.cpp
+  FontGetters.cpp
+  Font_segoeui_17_8bpp.cpp
+  Font_segoeui_18_8bpp.cpp
+  Font_segoeui_28_8bpp.cpp
+  Font_segoeui_40_8bpp.cpp
+  Font_segoeui_67_4bpp.cpp
+  Font_verdana_12_4bpp.cpp
+  Font_verdana_17_8bpp.cpp
+  Font_verdana_34_4bpp.cpp
+  Font_verdana_46_4bpp.cpp
+  Kerning_segoeui_17_8bpp.cpp
+  Kerning_segoeui_18_8bpp.cpp
+  Kerning_segoeui_28_8bpp.cpp
+  Kerning_segoeui_40_8bpp.cpp
+  Kerning_segoeui_67_4bpp.cpp
+  Kerning_verdana_12_4bpp.cpp
+  Kerning_verdana_17_8bpp.cpp
+  Kerning_verdana_34_4bpp.cpp
+  Kerning_verdana_46_4bpp.cpp
+  Table_segoeui_17_8bpp.cpp
+  Table_segoeui_18_8bpp.cpp
+  Table_segoeui_28_8bpp.cpp
+  Table_segoeui_40_8bpp.cpp
+  Table_segoeui_67_4bpp.cpp
+  Table_verdana_12_4bpp.cpp
+  Table_verdana_17_8bpp.cpp
+  Table_verdana_34_4bpp.cpp
+  Table_verdana_46_4bpp.cpp
+  LanguageGb.cpp
+  Texts.cpp
+  TypedTextDatabase.cpp
+  Application.vcxproj -> C:\Users\Hjalm\Documents\Embedded\TouchGFX_Projects\GrowHouseController\simulator\msvs\..\..\build\Debug\bin\Application.exe
+  Application.vcxproj -> ..\..\build\Debug\bin\Application.pdb (Partial PDB)
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.

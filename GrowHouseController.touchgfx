@@ -1,0 +1,1728 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Components": [
+          {
+            "RelativeFilename": "background.png",
+            "Alpha": 255,
+            "Name": "background",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Settings_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Settings_32.png",
+            "IconX": 14,
+            "IconY": 14,
+            "IconHeight": 32,
+            "IconWidth": 32,
+            "Name": "mainSettingsBtn",
+            "X": 420,
+            "Y": 46,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Info_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Info_32.png",
+            "IconX": 14,
+            "IconY": 14,
+            "IconHeight": 32,
+            "IconWidth": 32,
+            "Name": "mainStatsBtn",
+            "X": 420,
+            "Y": 106,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Power_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Power_32.png",
+            "IconX": 15,
+            "IconY": 15,
+            "IconHeight": 31,
+            "IconWidth": 31,
+            "Name": "mainPowerBtn",
+            "X": 420,
+            "Y": 166,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "currTmpText",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 41,
+              "Green": 153,
+              "Blue": 39
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "currTempTxtArea",
+            "X": 236,
+            "Y": 82,
+            "Width": 149,
+            "Height": 86,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId1",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 63,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea1",
+            "X": 239,
+            "Y": 72,
+            "Width": 142,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "currHumiTxt",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 41,
+              "Green": 153,
+              "Blue": 39
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "currHumiTxtArea",
+            "X": 53,
+            "Y": 82,
+            "Width": 148,
+            "Height": 86,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId3",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 63,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea1_1",
+            "X": 68,
+            "Y": 72,
+            "Width": 118,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "dateTxt",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 53,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "dateTxtArea",
+            "X": 275,
+            "Y": 0,
+            "Width": 200,
+            "Height": 26,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Togglebars_Toggle_round_small_button_On.png",
+            "Released": "__designer\\Dark_Togglebars_Toggle_round_small_button_Off.png",
+            "Alpha": 255,
+            "Style": "Style5",
+            "Name": "manualOverrideBtn",
+            "X": 20,
+            "Y": 206,
+            "Width": 96,
+            "Height": 38,
+            "Type": "ToggleButton",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Alpha": 255,
+            "Selected": false,
+            "Deselectable": false,
+            "FileNameSelected": "__designer\\Dark_Radio_buttons_Radio_Round_button_active.png",
+            "FileNameSelectedPressed": "__designer\\Dark_Radio_buttons_Radio_Round_button_normal.png",
+            "FileNameUnselected": "__designer\\Dark_Radio_buttons_Radio_Round_button_inactive.png",
+            "FileNameUnselectedPressed": "__designer\\Dark_Radio_buttons_Radio_Round_button_pressed.png",
+            "Style": "Style3",
+            "Name": "humidifierOpBtn",
+            "X": 157,
+            "Y": 204,
+            "Width": 44,
+            "Height": 44,
+            "Type": "RadioButton",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Alpha": 255,
+            "Selected": false,
+            "Deselectable": false,
+            "FileNameSelected": "__designer\\Dark_Radio_buttons_Radio_Round_button_active.png",
+            "FileNameSelectedPressed": "__designer\\Dark_Radio_buttons_Radio_Round_button_normal.png",
+            "FileNameUnselected": "__designer\\Dark_Radio_buttons_Radio_Round_button_inactive.png",
+            "FileNameUnselectedPressed": "__designer\\Dark_Radio_buttons_Radio_Round_button_pressed.png",
+            "Style": "Style3",
+            "Name": "lightOpBtn",
+            "X": 253,
+            "Y": 204,
+            "Width": 44,
+            "Height": 44,
+            "Type": "RadioButton",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Alpha": 255,
+            "Selected": false,
+            "Deselectable": false,
+            "FileNameSelected": "__designer\\Dark_Radio_buttons_Radio_Round_button_active.png",
+            "FileNameSelectedPressed": "__designer\\Dark_Radio_buttons_Radio_Round_button_normal.png",
+            "FileNameUnselected": "__designer\\Dark_Radio_buttons_Radio_Round_button_inactive.png",
+            "FileNameUnselectedPressed": "__designer\\Dark_Radio_buttons_Radio_Round_button_pressed.png",
+            "Style": "Style3",
+            "Name": "fanOpBtn",
+            "X": 346,
+            "Y": 204,
+            "Width": 44,
+            "Height": 44,
+            "Type": "RadioButton",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId31",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 63,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea1_1_1",
+            "X": 12,
+            "Y": 186,
+            "Width": 112,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId32",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 63,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "textArea1_1_1_1",
+            "X": 123,
+            "Y": 186,
+            "Width": 112,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId33",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 63,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "textArea1_1_1_2",
+            "X": 219,
+            "Y": 186,
+            "Width": 112,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId34",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 63,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "textArea1_1_1_3",
+            "X": 310,
+            "Y": 186,
+            "Width": 112,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "mainSettingsBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "mainSettingsBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "settingsScreen",
+              "Type": "ActionGotoScreen"
+            }
+          }
+        ],
+        "Name": "mainScreen"
+      },
+      {
+        "Components": [
+          {
+            "RelativeFilename": "background.png",
+            "Alpha": 255,
+            "Name": "image1",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Home_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Home_32.png",
+            "IconX": 14,
+            "IconY": 15,
+            "IconHeight": 31,
+            "IconWidth": 32,
+            "IconStyle": "Icon27",
+            "Name": "settingsHomeBtn",
+            "X": 420,
+            "Y": 106,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "dateTxt",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 53,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "dateTxtArea",
+            "X": 275,
+            "Y": 0,
+            "Width": 200,
+            "Height": 26,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_large_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_large.png",
+            "Alpha": 255,
+            "TextId": "TextId8",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0",
+            "Name": "setTempHumiBtn",
+            "X": 34,
+            "Y": 26,
+            "Width": 360,
+            "Height": 60,
+            "Type": "ButtonWithLabel",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_large_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_large.png",
+            "Alpha": 255,
+            "TextId": "TextId13",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0",
+            "Name": "setOutputConfigBtn",
+            "X": 34,
+            "Y": 86,
+            "Width": 360,
+            "Height": 60,
+            "Type": "ButtonWithLabel",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_large_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_large.png",
+            "Alpha": 255,
+            "TextId": "TextId14",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0",
+            "Name": "setDateTimeBtn",
+            "X": 34,
+            "Y": 206,
+            "Width": 360,
+            "Height": 60,
+            "Type": "ButtonWithLabel",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_large_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_large.png",
+            "Alpha": 255,
+            "TextId": "TextId15",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0",
+            "Name": "setDayNightBtn",
+            "X": 34,
+            "Y": 146,
+            "Width": 360,
+            "Height": 60,
+            "Type": "ButtonWithLabel",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "settingsHomeBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "settingsHomeBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "mainScreen",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "setTempHumiBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "setTempHumiBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "tempHumiSettingsScreen",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "setOutputConfigBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "setOutputConfigBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "opConfigSettingsScreen",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "setDayNightBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "setDayNightBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "dayNightSettingsScreen",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "setDateTimeBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "setDateTimeBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "dateTimeSettingsScreen",
+              "Type": "ActionGotoScreen"
+            }
+          }
+        ],
+        "Name": "settingsScreen"
+      },
+      {
+        "Components": [
+          {
+            "RelativeFilename": "background.png",
+            "Alpha": 255,
+            "Name": "image2",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "dateTxt",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 53,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "dateTxtArea",
+            "X": 275,
+            "Y": 0,
+            "Width": 200,
+            "Height": 26,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Back_arrow_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Back_arrow_32.png",
+            "IconX": 21,
+            "IconY": 14,
+            "IconHeight": 32,
+            "IconWidth": 19,
+            "Name": "tempHumiBackBtn",
+            "X": 0,
+            "Y": 0,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Home_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Home_32.png",
+            "IconX": 14,
+            "IconY": 15,
+            "IconHeight": 31,
+            "IconWidth": 32,
+            "IconStyle": "Icon27",
+            "Name": "tempHumiHomeBtn",
+            "X": 60,
+            "Y": 0,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId18",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 53,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "dateTxtArea_1",
+            "X": 275,
+            "Y": 0,
+            "Width": 200,
+            "Height": 26,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "IsHorizontalSlider": false,
+            "BackgroundUnselected": "__designer\\Dark_Slider_Vertical_Small_Slider3_Vertical_Round_back.png",
+            "BackgroundSelected": "__designer\\Dark_Slider_Vertical_Small_Slider3_Vertical_Round_fill.png",
+            "Indicator": "__designer\\Dark_Slider_Vertical_Small_Indicators_Slider3_Vertical_Round_nob.png",
+            "BackgroundX": 0,
+            "BackgroundY": 0,
+            "IndicatorPos": 3,
+            "IndicatorMax": 136,
+            "IndicatorMin": 5,
+            "ValueMax": 90,
+            "ValueMin": 10,
+            "InitValue": 10,
+            "Name": "nightHumiSlider",
+            "X": 421,
+            "Y": 60,
+            "Width": 40,
+            "Height": 193,
+            "Type": "Slider",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "IsHorizontalSlider": false,
+            "BackgroundUnselected": "__designer\\Dark_Slider_Vertical_Small_Slider3_Vertical_Round_back.png",
+            "BackgroundSelected": "__designer\\Dark_Slider_Vertical_Small_Slider3_Vertical_Round_fill.png",
+            "Indicator": "__designer\\Dark_Slider_Vertical_Small_Indicators_Slider3_Vertical_Round_nob.png",
+            "BackgroundX": 0,
+            "BackgroundY": 0,
+            "IndicatorPos": 3,
+            "IndicatorMax": 136,
+            "IndicatorMin": 5,
+            "ValueMax": 35,
+            "ValueMin": 15,
+            "InitValue": 15,
+            "Name": "nightTempSlider",
+            "X": 288,
+            "Y": 60,
+            "Width": 40,
+            "Height": 193,
+            "Type": "Slider",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "IsHorizontalSlider": false,
+            "BackgroundUnselected": "__designer\\Dark_Slider_Vertical_Small_Slider3_Vertical_Round_back.png",
+            "BackgroundSelected": "__designer\\Dark_Slider_Vertical_Small_Slider3_Vertical_Round_fill.png",
+            "Indicator": "__designer\\Dark_Slider_Vertical_Small_Indicators_Slider3_Vertical_Round_nob.png",
+            "BackgroundX": 0,
+            "BackgroundY": 0,
+            "IndicatorPos": 3,
+            "IndicatorMax": 136,
+            "IndicatorMin": 5,
+            "ValueMax": 90,
+            "ValueMin": 10,
+            "InitValue": 10,
+            "Name": "dayHumiSlider",
+            "X": 355,
+            "Y": 60,
+            "Width": 40,
+            "Height": 193,
+            "Type": "Slider",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "IsHorizontalSlider": false,
+            "BackgroundUnselected": "__designer\\Dark_Slider_Vertical_Small_Slider3_Vertical_Round_back.png",
+            "BackgroundSelected": "__designer\\Dark_Slider_Vertical_Small_Slider3_Vertical_Round_fill.png",
+            "Indicator": "__designer\\Dark_Slider_Vertical_Small_Indicators_Slider3_Vertical_Round_nob.png",
+            "BackgroundX": 0,
+            "BackgroundY": 0,
+            "IndicatorPos": 3,
+            "IndicatorMax": 136,
+            "IndicatorMin": 5,
+            "ValueMax": 35,
+            "ValueMin": 15,
+            "InitValue": 15,
+            "Name": "dayTempSlider",
+            "X": 220,
+            "Y": 60,
+            "Width": 40,
+            "Height": 193,
+            "Type": "Slider",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId22",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea2",
+            "X": 232,
+            "Y": 27,
+            "Width": 86,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId23",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea3",
+            "X": 380,
+            "Y": 27,
+            "Width": 61,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId24",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea4",
+            "X": 227,
+            "Y": 46,
+            "Width": 27,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId25",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea4_1",
+            "X": 362,
+            "Y": 46,
+            "Width": 27,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId26",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea5",
+            "X": 290,
+            "Y": 46,
+            "Width": 37,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId27",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea5_1",
+            "X": 424,
+            "Y": 46,
+            "Width": 37,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 39,
+            "Name": "box1",
+            "X": 39,
+            "Y": 99,
+            "Width": 55,
+            "Height": 26,
+            "Type": "Box",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 39,
+            "Name": "box1_3",
+            "X": 130,
+            "Y": 198,
+            "Width": 55,
+            "Height": 26,
+            "Type": "Box",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 39,
+            "Name": "box1_1",
+            "X": 130,
+            "Y": 99,
+            "Width": 55,
+            "Height": 26,
+            "Type": "Box",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 39,
+            "Name": "box1_2",
+            "X": 37,
+            "Y": 198,
+            "Width": 55,
+            "Height": 26,
+            "Type": "Box",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "BufferSize": 1,
+            "TextId": "nightTempTxt",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 35,
+              "Green": 184,
+              "Blue": 40
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "nightTempTxtArea",
+            "X": 130,
+            "Y": 99,
+            "Width": 55,
+            "Height": 26,
+            "Type": "TextAreaWithOneWildcard",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "BufferSize": 1,
+            "TextId": "TextId29",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 35,
+              "Green": 184,
+              "Blue": 40
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "nightHumiTxtArea",
+            "X": 132,
+            "Y": 198,
+            "Width": 51,
+            "Height": 26,
+            "Type": "TextAreaWithOneWildcard",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "BufferSize": 1,
+            "TextId": "TextId30",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 35,
+              "Green": 184,
+              "Blue": 40
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "dayHumiTxtArea",
+            "X": 39,
+            "Y": 198,
+            "Width": 51,
+            "Height": 26,
+            "Type": "TextAreaWithOneWildcard",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "BufferSize": 1,
+            "TextId": "dayTmpTxt",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 35,
+              "Green": 184,
+              "Blue": 40
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "dayTempTxtArea",
+            "X": 39,
+            "Y": 99,
+            "Width": 55,
+            "Height": 26,
+            "Type": "TextAreaWithOneWildcard",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId35",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea2_1",
+            "X": 70,
+            "Y": 66,
+            "Width": 86,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId36",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea3_1",
+            "X": 83,
+            "Y": 165,
+            "Width": 61,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId37",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea4_2",
+            "X": 53,
+            "Y": 82,
+            "Width": 27,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId38",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea5_2",
+            "X": 140,
+            "Y": 82,
+            "Width": 37,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId41",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "auhvswuha",
+            "X": 53,
+            "Y": 181,
+            "Width": 27,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId42",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 90,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea5_2_1",
+            "X": 140,
+            "Y": 181,
+            "Width": 37,
+            "Height": 20,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "tempHumiBackBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "tempHumiBackBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "settingsScreen",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "tempHumiHomeBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "tempHumiHomeBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "mainScreen",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "Interaction1",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "dayTempSlider",
+              "Type": "TriggerSliderValueChanged"
+            },
+            "Action": {
+              "Type": "ActionCustom"
+            }
+          }
+        ],
+        "Name": "tempHumiSettingsScreen"
+      },
+      {
+        "Components": [
+          {
+            "RelativeFilename": "background.png",
+            "Alpha": 255,
+            "Name": "image3",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "dateTxt",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 53,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "dateTxtArea_1",
+            "X": 275,
+            "Y": 0,
+            "Width": 200,
+            "Height": 26,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Back_arrow_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Back_arrow_32.png",
+            "IconX": 21,
+            "IconY": 14,
+            "IconHeight": 32,
+            "IconWidth": 19,
+            "IconStyle": "Icon5",
+            "Name": "dateTimeBackBtn",
+            "X": 0,
+            "Y": 0,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Home_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Home_32.png",
+            "IconX": 14,
+            "IconY": 15,
+            "IconHeight": 31,
+            "IconWidth": 32,
+            "IconStyle": "Icon27",
+            "Name": "dateTimeHomeBtn",
+            "X": 60,
+            "Y": 0,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "dateTimeBackBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "dateTimeBackBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "settingsScreen",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "dateTimeHomeBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "dateTimeHomeBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "mainScreen",
+              "Type": "ActionGotoScreen"
+            }
+          }
+        ],
+        "Name": "dateTimeSettingsScreen"
+      },
+      {
+        "Components": [
+          {
+            "RelativeFilename": "background.png",
+            "Alpha": 255,
+            "Name": "image4",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "dateTxt",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 53,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "dateTxtArea_1",
+            "X": 275,
+            "Y": 0,
+            "Width": 200,
+            "Height": 26,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Back_arrow_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Back_arrow_32.png",
+            "IconX": 21,
+            "IconY": 14,
+            "IconHeight": 32,
+            "IconWidth": 19,
+            "IconStyle": "Icon5",
+            "Name": "dayNightBackBtn",
+            "X": 0,
+            "Y": 0,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Home_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Home_32.png",
+            "IconX": 14,
+            "IconY": 15,
+            "IconHeight": 31,
+            "IconWidth": 32,
+            "IconStyle": "Icon27",
+            "Name": "dayNightHomeBtn",
+            "X": 60,
+            "Y": 0,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "dayNightBackBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "dayNightBackBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "settingsScreen",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "dayNightHomeBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "dayNightHomeBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "mainScreen",
+              "Type": "ActionGotoScreen"
+            }
+          }
+        ],
+        "Name": "dayNightSettingsScreen"
+      },
+      {
+        "Components": [
+          {
+            "RelativeFilename": "background.png",
+            "Alpha": 255,
+            "Name": "image5",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "dateTxt",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 53,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "dateTxtArea_1",
+            "X": 275,
+            "Y": 0,
+            "Width": 200,
+            "Height": 26,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Home_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Home_32.png",
+            "IconX": 14,
+            "IconY": 15,
+            "IconHeight": 31,
+            "IconWidth": 32,
+            "IconStyle": "Icon27",
+            "Name": "opConfigHomeBtn",
+            "X": 60,
+            "Y": 0,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\Dark_Buttons_Round_Edge_icon_button_pressed.png",
+            "Released": "__designer\\Dark_Buttons_Round_Edge_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\Dark_Icons_Back_arrow_32.png",
+            "IconReleased": "__designer\\Dark_Icons_Back_arrow_32.png",
+            "IconX": 21,
+            "IconY": 14,
+            "IconHeight": 32,
+            "IconWidth": 19,
+            "IconStyle": "Icon5",
+            "Name": "opConfigBackBtn",
+            "X": 0,
+            "Y": 0,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "opConfigBackBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "opConfigBackBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "settingsScreen",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "opConfigHomeBtnClicked",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "opConfigHomeBtn",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "mainScreen",
+              "Type": "ActionGotoScreen"
+            }
+          }
+        ],
+        "Name": "opConfigSettingsScreen"
+      }
+    ],
+    "CustomContainerDefinitions": [
+      {
+        "Components": [],
+        "Interactions": [],
+        "Name": "CustomContainer1",
+        "X": 0,
+        "Y": 0,
+        "Width": 338,
+        "Height": 272,
+        "Type": "CustomContainerDefinition",
+        "Visible": true,
+        "Draggable": false,
+        "Clickable": false,
+        "Fadeable": false,
+        "Moveable": false
+      }
+    ],
+    "Name": "MyFirstApp",
+    "Width": 480,
+    "Height": 272,
+    "Target": "STM32F746G-DISCO",
+    "TargetBpp": 16,
+    "StartupScreenName": "mainScreen",
+    "Skin": "Dark",
+    "TouchGfxPath": "C:\\Users\\Hjalm\\Documents\\Embedded\\TouchGFX\\"
+  },
+  "Version": "4.8.0"
+}

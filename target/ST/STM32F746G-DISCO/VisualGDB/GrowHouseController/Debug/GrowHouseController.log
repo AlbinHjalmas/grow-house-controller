@@ -1,0 +1,11 @@
+﻿  VisualGDB: Run "cmd.exe /c build_all.bat" in directory "C:\Users\Hjalm\Documents\Embedded\TouchGFX_Projects\GrowHouseController\target\ST\STM32F746G-DISCO\gcc" on local computer
+  'build_all.bat' is not recognized as an internal or external command,
+  operable program or batch file.
+  -------------------------------------------------------------
+  Command exited with code 1
+  Executable: cmd.exe
+  Arguments: /c build_all.bat
+  Directory: C:\Users\Hjalm\Documents\Embedded\TouchGFX_Projects\GrowHouseController\target\ST\STM32F746G-DISCO\gcc
+VisualGDB : error : Command-line action failed
+EXEC : error : Build has failed. See the Output window for more details.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""C:\Program Files (x86)\Sysprogs\VisualGDB\\VisualGDB.exe" /build "C:\Users\Hjalm\Documents\Embedded\TouchGFX_Projects\GrowHouseController\target\ST\STM32F746G-DISCO\VisualGDB\GrowHouseController\GrowHouseController.vcxproj" "/solution:C:\Users\Hjalm\Documents\Embedded\TouchGFX_Projects\GrowHouseController\target\ST\STM32F746G-DISCO\VisualGDB\GrowHouseController\GrowHouseController.sln" "/config:Debug" "/platform:Win32"" exited with code 1.

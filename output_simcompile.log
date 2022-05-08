@@ -1,0 +1,103 @@
+In file included from generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:8:0,
+                 from gui/include/gui/common/FrontendApplication.hpp:4,
+                 from generated/gui_generated/include/gui_generated/settingsscreen_screen/settingsScreenViewBase.hpp:7,
+                 from gui/include/gui/settingsscreen_screen/settingsScreenView.hpp:4,
+                 from gui/src/settingsscreen_screen/settingsScreenPresenter.cpp:1:
+gui/include/gui/model/Model.hpp:38:18: fatal error: gpio.h: No such file or directory
+ #include "gpio.h"
+                  ^
+compilation terminated.
+In file included from generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:8:0,
+                 from gui/include/gui/common/FrontendApplication.hpp:4,
+                 from generated/gui_generated/include/gui_generated/daynightsettingsscreen_screen/dayNightSettingsScreenViewBase.hpp:7,
+                 from gui/include/gui/daynightsettingsscreen_screen/dayNightSettingsScreenView.hpp:4,
+                 from gui/src/daynightsettingsscreen_screen/dayNightSettingsScreenPresenter.cpp:1:
+gui/include/gui/model/Model.hpp:38:18: fatal error: gpio.h: No such file or directory
+ #include "gpio.h"
+                  ^
+compilation terminated.
+In file included from generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:8:0,
+                 from gui/include/gui/common/FrontendApplication.hpp:4,
+                 from generated/gui_generated/include/gui_generated/datetimesettingsscreen_screen/dateTimeSettingsScreenViewBase.hpp:7,
+                 from gui/include/gui/datetimesettingsscreen_screen/dateTimeSettingsScreenView.hpp:4,
+                 from gui/src/datetimesettingsscreen_screen/dateTimeSettingsScreenPresenter.cpp:1:
+gui/include/gui/model/Model.hpp:38:18: fatal error: gpio.h: No such file or directory
+ #include "gpio.h"
+                  ^
+In file included from generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:8:0,
+                 from gui/include/gui/common/FrontendApplication.hpp:4,
+                 from generated/gui_generated/include/gui_generated/mainscreen_screen/mainScreenViewBase.hpp:7,
+                 from gui/include/gui/mainscreen_screen/mainScreenView.hpp:4,
+                 from gui/src/mainscreen_screen/mainScreenView.cpp:1:
+gui/include/gui/model/Model.hpp:38:18: fatal error: gpio.h: No such file or directory
+ #include "gpio.h"
+                  ^
+compilation terminated.
+compilation terminated.
+In file included from generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:8:0,
+                 from gui/include/gui/common/FrontendApplication.hpp:4,
+                 from generated/gui_generated/include/gui_generated/settingsscreen_screen/settingsScreenViewBase.hpp:7,
+                 from gui/include/gui/settingsscreen_screen/settingsScreenView.hpp:4,
+                 from gui/src/settingsscreen_screen/settingsScreenView.cpp:1:
+gui/include/gui/model/Model.hpp:38:18: fatal error: gpio.h: No such file or directory
+ #include "gpio.h"
+                  ^
+compilation terminated.
+make[2]: *** [build/MINGW32_NT-6.2/gui/src/settingsscreen_screen/settingsScreenPresenter.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** [build/MINGW32_NT-6.2/gui/src/daynightsettingsscreen_screen/dayNightSettingsScreenPresenter.o] Error 1
+make[2]: *** [build/MINGW32_NT-6.2/gui/src/settingsscreen_screen/settingsScreenView.o] Error 1
+make[2]: *** [build/MINGW32_NT-6.2/gui/src/datetimesettingsscreen_screen/dateTimeSettingsScreenPresenter.o] Error 1
+In file included from generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:8:0,
+                 from gui/include/gui/common/FrontendApplication.hpp:4,
+                 from generated/gui_generated/include/gui_generated/screen1_screen/Screen1ViewBase.hpp:7,
+                 from gui/include/gui/screen1_screen/Screen1View.hpp:4,
+                 from gui/src/screen1_screen/Screen1View.cpp:1:
+gui/include/gui/model/Model.hpp:38:18: fatal error: gpio.h: No such file or directory
+ #include "gpio.h"
+                  ^
+make[2]: *** [build/MINGW32_NT-6.2/gui/src/mainscreen_screen/mainScreenView.o] Error 1
+In file included from generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:8:0,
+                 from gui/include/gui/common/FrontendApplication.hpp:4,
+                 from generated/gui_generated/include/gui_generated/daynightsettingsscreen_screen/dayNightSettingsScreenViewBase.hpp:7,
+                 from gui/include/gui/daynightsettingsscreen_screen/dayNightSettingsScreenView.hpp:4,
+                 from gui/src/daynightsettingsscreen_screen/dayNightSettingsScreenView.cpp:1:
+gui/include/gui/model/Model.hpp:38:18: fatal error: gpio.h: No such file or directory
+ #include "gpio.h"
+                  ^
+compilation terminated.
+compilation terminated.
+make[2]: *** [build/MINGW32_NT-6.2/gui/src/screen1_screen/Screen1View.o] Error 1
+make[2]: *** [build/MINGW32_NT-6.2/gui/src/daynightsettingsscreen_screen/dayNightSettingsScreenView.o] Error 1
+In file included from generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:8:0,
+                 from gui/include/gui/common/FrontendApplication.hpp:4,
+                 from generated/gui_generated/include/gui_generated/datetimesettingsscreen_screen/dateTimeSettingsScreenViewBase.hpp:7,
+                 from gui/include/gui/datetimesettingsscreen_screen/dateTimeSettingsScreenView.hpp:4,
+                 from gui/src/datetimesettingsscreen_screen/dateTimeSettingsScreenView.cpp:1:
+gui/include/gui/model/Model.hpp:38:18: fatal error: gpio.h: No such file or directory
+ #include "gpio.h"
+                  ^
+compilation terminated.
+In file included from generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:8:0,
+                 from gui/include/gui/common/FrontendApplication.hpp:4,
+                 from generated/gui_generated/include/gui_generated/screen1_screen/Screen1ViewBase.hpp:7,
+                 from gui/include/gui/screen1_screen/Screen1View.hpp:4,
+                 from gui/src/screen1_screen/Screen1Presenter.cpp:1:
+gui/include/gui/model/Model.hpp:38:18: fatal error: gpio.h: No such file or directory
+ #include "gpio.h"
+                  ^
+compilation terminated.
+make[2]: *** [build/MINGW32_NT-6.2/gui/src/datetimesettingsscreen_screen/dateTimeSettingsScreenView.o] Error 1
+make[2]: *** [build/MINGW32_NT-6.2/gui/src/screen1_screen/Screen1Presenter.o] Error 1
+In file included from generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:8:0,
+                 from gui/include/gui/common/FrontendApplication.hpp:4,
+                 from generated/gui_generated/include/gui_generated/mainscreen_screen/mainScreenViewBase.hpp:7,
+                 from gui/include/gui/mainscreen_screen/mainScreenView.hpp:4,
+                 from gui/src/mainscreen_screen/mainScreenPresenter.cpp:1:
+gui/include/gui/model/Model.hpp:38:18: fatal error: gpio.h: No such file or directory
+ #include "gpio.h"
+                  ^
+compilation terminated.
+make[2]: *** [build/MINGW32_NT-6.2/gui/src/mainscreen_screen/mainScreenPresenter.o] Error 1
+make[1]: *** [generate_assets] Error 2
+make: *** [all] Error 2

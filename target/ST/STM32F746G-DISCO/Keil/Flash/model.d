@@ -1,0 +1,60 @@
+.\flash\model.o: ..\..\..\..\gui\src\model\Model.cpp
+.\flash\model.o: ..\..\..\..\gui\include\gui/model/Model.hpp
+.\flash\model.o: ..\..\..\..\Hardware\Inc\gpio.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\board\ST\STM32F746G-DISCO\include\stm32f7xx_hal_conf.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_rcc.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_def.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\CMSIS\stm32f7xx.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\CMSIS\stm32f756xx.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\CMSIS\core_cm7.h
+.\flash\model.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\CMSIS\core_cmInstr.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\CMSIS\cmsis_armcc.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\CMSIS\core_cmFunc.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\CMSIS\core_cmSimd.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\CMSIS\system_stm32f7xx.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\Legacy/stm32_hal_legacy.h
+.\flash\model.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_rcc_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_gpio.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_gpio_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_dma.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_dma_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_cortex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_adc.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_adc_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_dma2d.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_flash.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_flash_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_nor.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_ll_fmc.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_sdram.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_i2c.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_i2c_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_ltdc.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_pwr.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_pwr_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_qspi.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_rng.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_rtc.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_rtc_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_sai.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_sd.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_ll_sdmmc.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_tim.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_tim_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_uart.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_uart_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_pcd.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_ll_usb.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_pcd_ex.h
+.\flash\model.o: ..\..\..\..\..\..\TouchGFX\touchgfx\framework\include\platform\hal\ST\mcu\stm32f7xx\STM32F7xx_HAL_Driver\stm32f7xx_hal_hcd.h
+.\flash\model.o: ..\..\..\..\Hardware\Inc\sensor.hpp
+.\flash\model.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\cstdint
+.\flash\model.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\cmath
+.\flash\model.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\math.h
+.\flash\model.o: ..\..\..\..\Hardware\Inc\opSocket.hpp
+.\flash\model.o: ..\..\..\..\Hardware\Inc\clockTime.hpp
+.\flash\model.o: ..\..\..\..\gui\include\gui/model/ModelListener.hpp
+.\flash\model.o: ..\..\..\..\Hardware\Inc\actuator.hpp
